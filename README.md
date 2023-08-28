@@ -1,2 +1,2 @@
 # ShreeDevel
-Project Developed by Shreenandan Pandey
+Repository Developed by Shreenandan Pandey
